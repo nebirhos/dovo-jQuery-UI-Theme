@@ -1,5 +1,5 @@
-== Aristo for jQuery UI
+== Dovo theme for jQuery UI
 
-The "Aristo" theme for Cappuccino ported to a jQuery UI Theme, with permission by 280North and Pinvoke.
+Based on "Aristo" theme by Tait Brown
 
-More information available at http://taitems.tumblr.com
+More information available at https://github.com/taitems/Aristo-jQuery-UI-Theme
